@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Welcome screen for my Tech Truth Challenge app -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="28dp"
+    android:background="#0B132B">
+
+    <!-- App title -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tech Truth Challenge"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:textColor="#5BC0BE"
+        android:gravity="center"
+        android:layout_marginBottom="12dp" />
+
+    <!-- Short welcome message -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Can you spot the real tech facts from the myths?"
+        android:textSize="18sp"
+        android:textColor="#FFFFFF"
+        android:gravity="center"
+        android:layout_marginBottom="20dp" />
+
+    <!-- Description of what the app does -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This quiz helps users learn about common technology myths in a simple and fun way."
+        android:textSize="16sp"
+        android:textColor="#D9E4EC"
+        android:gravity="center"
+        android:layout_marginBottom="35dp" />
+
+    <!-- Button that starts the quiz -->
+    <Button
+        android:id="@+id/btnStart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Begin Challenge"
+        android:textSize="18sp" />
+
+</LinearLayout>
