@@ -63,7 +63,7 @@ The questions used in the application were based on information gathered from on
 The following screenshots show the application running on the emulator during testing.
 
 ### Welcome Screen
-![Welcome Screen](screenshots/welcome-screen.jpeg)
+![Welcome Screen](https://github.com/MoeketsiNteo/IMADAssignment2/blob/1422b01e1d94a742fdf54460c335baca78cf1d28/Welcome%20Screen.jpeg)
 
 This screen introduces the application and allows the user to start the quiz.
 
