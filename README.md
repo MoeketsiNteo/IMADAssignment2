@@ -108,6 +108,11 @@ This screen displays the final score and performance feedback.
 
 These issues were resolved by rebuilding the project, checking file names, and improving the code structure.
 
+## 11. Links
+
+🔗 GitHub Repository: (https://github.com/MoeketsiNteo/IMADAssignment2)  
+🎥 Video Demonstration: (https://youtu.be/xUHPCJrI0s8)
+
 ## 9. Conclusion
 
 This project successfully demonstrates the development of a simple Android application using Kotlin. The application meets all the requirements by including multiple screens, implementing quiz logic, tracking user performance, and providing feedback.
@@ -123,7 +128,4 @@ Programming Knowledge. (2021). *Android Quiz App Tutorial* [YouTube video]. Avai
 
 The Independent Institute of Education (IIE). (2026). *Introduction to Mobile Application Development IMAD5112: Assignment 2 Brief*  
 
-## 11. Links
 
-🔗 GitHub Repository: (https://github.com/MoeketsiNteo/IMADAssignment2)  
-🎥 Video Demonstration: (https://youtu.be/xUHPCJrI0s8)
