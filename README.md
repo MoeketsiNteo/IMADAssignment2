@@ -78,7 +78,7 @@ This screen displays one question at a time and allows the user to choose betwee
 This screen shows feedback after the user selects an answer.
 
 ### Score Screen
-![Score Screen](screenshots/score-screen.jpeg)
+![Score Screen](https://github.com/MoeketsiNteo/IMADAssignment2/blob/25da8fddfbfe3b30902d69aeccfb2651a6d32e23/Score%20Screen.jpeg)
 
 This screen displays the final score and performance feedback.
 
