@@ -58,16 +58,36 @@ The logic of the application was implemented using Kotlin, and guidance on struc
 
 The questions used in the application were based on information gathered from online sources that discuss technology myths and facts. The content was rewritten in simple sentence form to suit the quiz format and ensure originality (12th Man Technology, n.d.; Inceptor, n.d.).
 
-## 7. Testing
+## 7. Screenshot of the working application
 
-The application was tested manually to ensure that all features work correctly. The following checks were performed:
+The following screenshots show the application running on the emulator during testing.
 
-- The app runs correctly on the emulator  
-- Navigation between screens works properly  
-- Buttons respond correctly  
-- The score is calculated accurately  
-- Feedback is displayed correctly  
-- The review feature shows correct answers and explanations  
+### Welcome Screen
+![Welcome Screen](screenshots/welcome-screen.jpeg)
+
+This screen introduces the application and allows the user to start the quiz.
+
+### Question Screen
+![Question Screen](screenshots/question-screen.jpeg)
+
+This screen displays one question at a time and allows the user to choose between Fact and Myth.
+
+### Answer Feedback
+![Answer Feedback](screenshots/answer-feedback.jpeg)
+
+This screen shows feedback after the user selects an answer.
+
+### Score Screen
+![Score Screen](screenshots/score-screen.jpeg)
+
+This screen displays the final score and performance feedback.
+
+### Review Answers
+![Review Answers](screenshots/review-answers.jpeg)
+
+This screen shows all correct answers and explanations.
+
+*All screenshots are original and captured from the developed application during testing.*
 
 ## 8. Challenges Faced
 
