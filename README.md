@@ -50,11 +50,13 @@ The application works by guiding the user through a quiz process across the thre
 
     - If the user selects the correct answer, the app displays a message such as:
   **"Correct! You spotted the truth."** and increases the score.
+
 ![Correct Answer](https://github.com/MoeketsiNteo/IMADAssignment2/blob/3835000a862bc7251346cb77c096852560201c76/Correct.jpeg)
 
     - If the user selects the wrong answer, the app displays:
   **"Wrong! This one caught you."**
-![Incorrect Answer]()
+  
+![Incorrect Answer](https://github.com/MoeketsiNteo/IMADAssignment2/blob/63552f59da045ee7f1a4b157b99a5dd106479fd8/Incorrect.jpeg)
 
     - If the user presses **Next** without selecting an answer, the app shows a message:
   **"Please choose Fact or Myth before moving on."**  
