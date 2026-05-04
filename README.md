@@ -46,9 +46,20 @@ The application works by guiding the user through a quiz process across the thre
 
 - When the app starts, the user sees the welcome screen. After clicking the start button, the app navigates to the question screen using an intent.  
 
-- On the question screen, the user is shown one statement at a time. The user must decide whether the statement is a **Fact** or a **Myth**. Once an answer is selected, the app checks whether it is correct and displays feedback. If the answer is correct, the score increases.  
+- On the question screen, the user is shown one statement at a time. The user must decide whether the statement is a **Fact** or a **Myth**. Once an answer is selected, the app checks whether it is correct and displays feedback. If the answer is correct, the score increases. The user must decide whether the statement is a **Fact** or a **Myth** by selecting one of the buttons provided.
 
-- The application uses a variable to keep track of the current question and moves through the list of questions step by step. This demonstrates the use of iteration, which is one of the requirements of the assignment (The Independent Institute of Education, 2026).  
+    - If the user selects the correct answer, the app displays a message such as:
+  **"Correct! You spotted the truth."** and increases the score.
+
+
+    - If the user selects the wrong answer, the app displays:
+  **"Wrong! This one caught you."**
+
+    - If the user presses **Next** without selecting an answer, the app shows a message:
+  **"Please choose Fact or Myth before moving on."**  
+  This ensures the user answers every question before continuing.
+
+    - The application uses a variable to keep track of the current question and moves through the list of questions step by step. This demonstrates the use of iteration, which is one of the requirements of the assignment (The Independent Institute of Education, 2026).  
 
 - After all questions are answered, the app automatically moves to the score screen. The user’s total score is displayed, along with feedback depending on performance. The user can also review all questions and their correct answers, which satisfies the review functionality requirement (The Independent Institute of Education, 2026).  
 
