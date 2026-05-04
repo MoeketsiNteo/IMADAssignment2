@@ -83,15 +83,11 @@ This screen shows feedback after the user selects an answer.
 This screen displays the final score and performance feedback.
 
 ### Review Answers
-![Review Answers](screenshots/review-answers.jpeg)
+![Review Answers](https://github.com/MoeketsiNteo/IMADAssignment2/blob/3de5a3f1b53001e3a444607d396b559c430feef6/Review%20Answers.jpeg)
 
-This screen shows all correct answers and explanations.
-
-*All screenshots are original and captured from the developed application during testing.*
+*All screenshots are original and captured from the developed application during testing*
 
 ## 8. Challenges Faced
-
-Some challenges experienced during development include:
 
 - Layout files not being recognised by the system  
 - Errors when navigating between activities  
