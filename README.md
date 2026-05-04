@@ -46,22 +46,23 @@ The application works by guiding the user through a quiz process across the thre
 
 - When the app starts, the user sees the welcome screen. After clicking the start button, the app navigates to the question screen using an intent.  
 
-- On the question screen, the user is shown one statement at a time. The user must decide whether the statement is a **Fact** or a **Myth**. Once an answer is selected, the app checks whether it is correct and displays feedback. If the answer is correct, the score increases. The user must decide whether the statement is a **Fact** or a **Myth** by selecting one of the buttons provided.
+- On the question screen, the user is shown one statement at a time. The user must decide whether the statement is a **Fact** or a **Myth**. Once an answer is selected, the app checks whether it is correct and displays feedback. If the answer is correct, the score increases. The user must decide whether the statement is a **Fact** or a **Myth** by selecting one of the buttons provided. For example below:
 
-    - If the user selects the correct answer, the app displays a message such as:
+a) If the user selects the correct answer, the app displays a message such as:
   **"Correct! You spotted the truth."** and increases the score.
 
 ![Correct Answer](https://github.com/MoeketsiNteo/IMADAssignment2/blob/3835000a862bc7251346cb77c096852560201c76/Correct.jpeg)
 
-    - If the user selects the wrong answer, the app displays:
+b) If the user selects the wrong answer, the app displays:
   **"Wrong! This one caught you."**
   
 ![Incorrect Answer](https://github.com/MoeketsiNteo/IMADAssignment2/blob/63552f59da045ee7f1a4b157b99a5dd106479fd8/Incorrect.jpeg)
 
-    - If the user presses **Next** without selecting an answer, the app shows a message:
+c) If the user presses **Next** without selecting an answer, the app shows a message:
   **"Please choose Fact or Myth before moving on."**  
   This ensures the user answers every question before continuing.
-![Error Message]()
+  
+![Error Message](https://github.com/MoeketsiNteo/IMADAssignment2/blob/40585dca7e1b445aaafe748eb5de638b7c01dd32/Error.jpeg)
 
 - The application uses a variable to keep track of the current question and moves through the list of questions step by step. This demonstrates the use of iteration, which is one of the requirements of the assignment (The Independent Institute of Education, 2026).  
 
