@@ -68,7 +68,7 @@ The following screenshots show the application running on the emulator during te
 This screen introduces the application and allows the user to start the quiz.
 
 ### Question Screen
-![Question Screen](screenshots/question-screen.jpeg)
+![Question Screen](https://github.com/MoeketsiNteo/IMADAssignment2/blob/3ef46abbb0ed547925848107392b833ad597ecb4/Question%20Screen.jpeg)
 
 This screen displays one question at a time and allows the user to choose between Fact and Myth.
 
