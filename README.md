@@ -70,10 +70,6 @@ c) If the user presses **Next** without selecting an answer, the app shows a mes
 
 The logic of the application was implemented using Kotlin, and guidance on structuring quiz logic and handling user input was supported by a YouTube tutorial (Programming Knowledge, 2021).
 
-## 6. Source of Questions
-
-The questions used in the application were based on information gathered from online sources that discuss technology myths and facts. The content was rewritten in simple sentence form to suit the quiz format and ensure originality (12th Man Technology, n.d.; Inceptor, n.d.).
-
 ## 7. Screenshot of the working application
 
 The following screenshots show the application running on the emulator during testing.
@@ -115,7 +111,6 @@ These issues were resolved by rebuilding the project, checking file names, and i
 ## 9. Conclusion
 
 This project successfully demonstrates the development of a simple Android application using Kotlin. The application meets all the requirements by including multiple screens, implementing quiz logic, tracking user performance, and providing feedback.
-
 The use of external resources and proper planning helped in completing the project successfully. Overall, this project improved understanding of Android development and problem-solving skills.
 
 ## 10. References
