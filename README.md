@@ -73,7 +73,7 @@ This screen introduces the application and allows the user to start the quiz.
 This screen displays one question at a time and allows the user to choose between Fact and Myth.
 
 ### Answer Feedback
-![Answer Feedback](screenshots/answer-feedback.jpeg)
+![Answer Feedback](https://github.com/MoeketsiNteo/IMADAssignment2/blob/cbc0e10155a5fc271ccc985495432adc989bca42/Answer%20Feedback.jpeg)
 
 This screen shows feedback after the user selects an answer.
 
